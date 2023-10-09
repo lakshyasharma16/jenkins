@@ -1,5 +1,5 @@
 def call(){
 
-sh "echo hello from maven"
+sh "echo maven stage"
 
 }
